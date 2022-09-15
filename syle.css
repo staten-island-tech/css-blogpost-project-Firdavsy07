@@ -1,11 +1,17 @@
 body{
-    background-color: rosybrown;
-    color: blueviolet;
-    font-size: 25px;
+    background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-4-full.jpg);
 }
-h1{
-    color: brown;
-}
+
+
 .main-header{
+    margin: auto 20px;
+    font:italic 1.2em "Fira Sans", serif;
+    font-size: 25px;
     color: black;
+    padding: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+      0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  background-color: white 
+  
+  
 }
