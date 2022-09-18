@@ -27,11 +27,19 @@ h2{
 
 h3{
   display: inline-block;
-  width: 500px;
-  padding: 5px;
+  width: 600px;
   font-size: 30px;
 }
-.blogs{
-  margin: 0;
-text-indent: 10ch;
+
+p{
+  display: inline-block;
+  width: 600px;
+}
+#blog{
+font-family: 'Abel', sans-serif;
+font-size: 15px
+}
+img{
+  height: 300px;
+  width: 300px;
 }
