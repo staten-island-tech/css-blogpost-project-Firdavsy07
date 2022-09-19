@@ -27,19 +27,36 @@ h2{
 
 h3{
   display: inline-block;
-  width: 600px;
+  width: 550px;
   font-size: 30px;
+  margin: 10px;;
+  color: blanchedalmond;
 }
 
 p{
   display: inline-block;
   width: 600px;
+  text-align: center;
 }
 #blog{
+  color: white;
 font-family: 'Abel', sans-serif;
 font-size: 15px
 }
+#image{
+  display: inline-block;
+  width: 550px
+}
+
 img{
   height: 300px;
   width: 300px;
+}
+figure{
+  display: flex;
+  flex-flow: column;
+  border: thin #c0c0c0 solid;
+  padding: 5px;
+  margin: auto;
+  background-color: black;
 }
