@@ -34,6 +34,8 @@ h3{
 }
 
 p{
+  border:  thin #0f0f0f solid
+  padding: 5px;
   display: inline-block;
   width: 600px;
   text-align: center;
@@ -42,6 +44,7 @@ p{
   color: white;
 font-family: 'Abel', sans-serif;
 font-size: 20px
+
 }
 #image{
   display: inline-block;
