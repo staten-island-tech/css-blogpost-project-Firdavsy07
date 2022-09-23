@@ -26,7 +26,7 @@ h2{
 }
 
 h3{
-  display: inline-block;
+
   width: 550px;
   font-size: 30px;
   margin: 10px;;
@@ -36,7 +36,6 @@ h3{
 p{
   border:  thin #0f0f0f solid
   padding: 5px;
-  display: inline-block;
   width: 600px;
   text-align: center;
 }
@@ -47,7 +46,7 @@ font-size: 20px
 
 }
 #image{
-  display: inline-block;
+  
   width: 550px
 }
 
@@ -56,8 +55,6 @@ img{
   width: 300px;
 }
 figure{
-  display: flex;
-  flex-flow: column;
   border: thin #c0c0c0 solid;
   padding: 5px;
   margin: auto;
